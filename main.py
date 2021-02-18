@@ -6,6 +6,5 @@
 
 #print("print('what to print')")
 
-print("Hello world!\nHello world!\nHello world!\nHello world!")
-
-print("Hello" + " " + "Gbenga")
+#input function
+# print("Hello" + " " + input("What is your name?"))
