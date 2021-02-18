@@ -1,7 +1,11 @@
 #Write your code below this line 👇
 
-print("Day 1 - Python Print Function")
+#print("Day 1 - Python Print Function")
 
-print("The function is declared like this:")
+##print("The function is declared like this:")
 
-print("print('what to print')")
+#print("print('what to print')")
+
+print("Hello world!\nHello world!\nHello world!\nHello world!")
+
+print("Hello" + " " + "Gbenga")
